@@ -1,0 +1,14 @@
+{
+  "name": "pages-and-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  }
+}
